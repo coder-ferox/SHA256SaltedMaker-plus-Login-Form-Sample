@@ -1,0 +1,11 @@
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\bin\Debug\LoginForm APPCONFIG.exe.config
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\bin\Debug\LoginForm APPCONFIG.exe
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\bin\Debug\LoginForm APPCONFIG.pdb
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm APPCONFIG.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm_APPCONFIG.LoginScreen.resources
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm_APPCONFIG.Main.resources
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm_APPCONFIG.Properties.Resources.resources
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm APPCONFIG.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm APPCONFIG.exe
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm APPCONFIG.pdb
+C:\Users\Danilo\Desktop\MIEICS\LoginForm APPCONFIG\LoginForm APPCONFIG\obj\Debug\LoginForm_APPCONFIG.SaltScreen.resources
